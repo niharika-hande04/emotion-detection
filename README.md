@@ -4,7 +4,7 @@ A high-performance real-time facial emotion detection system with improved accur
 
 ## 🎯 Features
 
-- **60 Accuracy** with advanced CNN architecture
+- **60% Accuracy** with advanced CNN architecture
 - **Real-time Processing** optimized for speed
 - **Multi-face Support** detect multiple faces
 - **Confidence Scores** with probability outputs
